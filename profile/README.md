@@ -1,7 +1,7 @@
 
 # SRL Labs
 
-## What is in this organisation?
+## What is in this organization?
 
 This GitHub organization is the home for open source research projects related to
 [SR Linux](https://www.nokia.com/ip-networks/service-router-linux-NOS/) . The projects in this organization are not
